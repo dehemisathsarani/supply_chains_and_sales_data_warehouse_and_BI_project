@@ -24,7 +24,7 @@ This project focused on designing a complete Business Intelligence (BI) solution
 
 -SQL Server Data Tools (SSDT)
 
--Power BI Desktop
+-Power BI Desktop(Analytical Reporting )
 
 -Power BI Service
 
